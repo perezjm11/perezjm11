@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> Hola, mi nombre es José María Pérez Marco.
+
+Esta web se utilizará para presentar el trabajo individual final de la asignatura “Programación y Manejo de datos en la era del Big Data”.
+
+La web de la asignatura puede verse aquí y los trabajos de mis compañeros de curso puedes verlos aquí.
+
+El nombre del trabajo es “Max Verstappen en la Formula 1”, ya que fundalmente es un análisis de la carrera del piloto en la categoría reina del automovilismo. Con este blog me gustaría expicar mi pasión por la Formula 1 así como analizar la carrera de Max Verstappen, uno de los mejores pilotos de la historia que está arrasando durante los últimos tiempos.
+
+
