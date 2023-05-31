@@ -19,6 +19,6 @@ Esta web se utilizará para presentar el trabajo individual final de la asignatu
 
 La web de la asignatura puede verse aquí y los trabajos de mis compañeros de curso puedes verlos aquí.
 
-El nombre del trabajo es “Max Verstappen en la Formula 1”, ya que fundalmente es un análisis de la carrera del piloto en la categoría reina del automovilismo. Con este blog me gustaría expicar mi pasión por la Formula 1 así como analizar la carrera de Max Verstappen, uno de los mejores pilotos de la historia que está arrasando durante los últimos tiempos.
+El nombre del trabajo es “La carrera de Cristiano Ronaldo”, ya que fundalmente es un análisis estadístico de uno de los mejores futbolistas de la historia y máximo goleador histórico. En dicho trabajo explicaremos las diferencias en cuanto a sus registros goleadores comparandolos por temporada, club o competición entre otros.
 
 
